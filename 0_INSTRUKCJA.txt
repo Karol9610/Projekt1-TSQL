@@ -1,0 +1,3 @@
+1. Tworzymy m.in 2 bazy danych żeby pobawić się kursorem, dobrze gdyby mialy czesc wspolnej nazwy, albo były jedna po drugiej w sys.databases( ID)
+2. Tworzymy wg.kolejnosci tabele
+3. na koncu uruchamiamy inne dane
